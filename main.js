@@ -7,3 +7,6 @@ let b = 10;
 function name(params) {
     
 }
+function name(params) {
+    
+}
