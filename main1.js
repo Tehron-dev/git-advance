@@ -10,3 +10,4 @@ function name(params) {
 function name(params) {
     
 }
+let f = 2;
